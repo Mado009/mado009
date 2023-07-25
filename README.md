@@ -22,10 +22,17 @@ I am a self-taught .NET developer. I enjoy solving complex problems using coding
 <br><br />
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Mado009&theme=dark&hide_border=false&include_all_commits=false&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Mado009&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Mado009&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?quote=Programming%20is%20not%20about%20typing.It%27s%20about%20thinking.&author=Rich%20Hickey&?type=horizontal&theme=radical)
+<details>
+ <summary><h3>Mado's Coding Journey</h3></summary>
+   I embarked on my coding journey with Python, where I learned the foundations of programming, including syntax, data types, and control flow. As I delved deeper, I explored data structures, file handling, and the powerful concept of object-oriented programming.
+
+Eager to expand my skills, I transitioned into web development, immersing myself in the trio of HTML, CSS, and JavaScript. With this combination, I acquired the ability to craft captivating and interactive web pages. I further honed my skills by mastering React and Bootstrap, enabling me to build dynamic and responsive user interfaces.
+
+Never one to shy away from a challenge, I then ventured into C# and ASP.NET development. This opened up new possibilities for me in building robust web applications and web services, utilizing the full potential of Microsoft's technologies.
+
+As I continue my journey, I am constantly seeking opportunities to learn, innovate, and create meaningful solutions through code. My passion for programming drives me to tackle exciting projects and contribute to the ever-evolving world of technology.
+
 
 
