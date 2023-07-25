@@ -1,6 +1,6 @@
-# 💫 About Me:
-I am a self-taught .NET developer.<br><br>I enjoy solving complex problems using coding as my<br>main tool.<br><br>If you are looking for a .NET developer who is motivated, <br>detail-oriented, and eager to learn, please connect with me <br>on LinkedIn. I am excited to collaborate with other<br>professionals in the field and apply my skills to solve <br>real-world challenges.
-
+#  MADO
+**Builder (Developer/Creator)**
+I am a self-taught .NET developer and Web Developer in my free time.<br><br>I enjoy solving complex problems using coding as my<br>main tool.<br><br>All coding projects are build from the ground up,from planning and designing to solving real-life problems with code.
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/mado_gj) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/maeldo-gjoni-182042232) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/17726075) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/maeldo3) 
